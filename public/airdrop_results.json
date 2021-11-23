@@ -50,8 +50,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -122,8 +122,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -158,8 +158,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -176,8 +176,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -194,8 +194,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -302,8 +302,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -392,8 +392,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -446,8 +446,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -464,8 +464,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -482,8 +482,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -500,8 +500,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -518,8 +518,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -554,8 +554,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -572,8 +572,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -590,8 +590,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -716,8 +716,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -734,8 +734,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -842,8 +842,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -860,8 +860,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -896,8 +896,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -914,8 +914,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -932,8 +932,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1004,8 +1004,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1184,8 +1184,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1202,8 +1202,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1220,8 +1220,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1274,8 +1274,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1310,8 +1310,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1364,8 +1364,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1400,8 +1400,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1436,8 +1436,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1490,8 +1490,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1544,8 +1544,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1598,8 +1598,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1724,8 +1724,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1778,8 +1778,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -1994,8 +1994,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2012,8 +2012,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2048,8 +2048,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2066,8 +2066,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2084,8 +2084,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2156,8 +2156,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2174,8 +2174,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2192,8 +2192,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2228,8 +2228,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2246,8 +2246,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2282,8 +2282,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2300,8 +2300,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2318,8 +2318,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2336,8 +2336,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2372,8 +2372,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2516,8 +2516,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -2948,8 +2948,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3092,8 +3092,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3182,8 +3182,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3200,8 +3200,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3218,8 +3218,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3236,8 +3236,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3254,8 +3254,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3272,8 +3272,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3308,8 +3308,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3344,8 +3344,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3398,8 +3398,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3434,8 +3434,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3596,8 +3596,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -3704,8 +3704,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -4064,8 +4064,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -4856,8 +4856,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -6062,8 +6062,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -8906,8 +8906,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -8924,8 +8924,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -8942,8 +8942,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -8996,8 +8996,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9014,8 +9014,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9032,8 +9032,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9050,8 +9050,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9068,8 +9068,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9104,8 +9104,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9122,8 +9122,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9176,8 +9176,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9248,8 +9248,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9266,8 +9266,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9302,8 +9302,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9410,8 +9410,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9536,8 +9536,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9608,8 +9608,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9824,8 +9824,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9950,8 +9950,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -9986,8 +9986,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10040,8 +10040,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10148,8 +10148,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10220,8 +10220,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10274,8 +10274,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10292,8 +10292,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10310,8 +10310,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10328,8 +10328,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10418,8 +10418,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10688,8 +10688,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10760,8 +10760,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10832,8 +10832,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -10976,8 +10976,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11102,8 +11102,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11264,8 +11264,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11408,8 +11408,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11498,8 +11498,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11516,8 +11516,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11624,8 +11624,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11678,8 +11678,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11696,8 +11696,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11750,8 +11750,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11786,8 +11786,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11876,8 +11876,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11894,8 +11894,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -11984,8 +11984,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12002,8 +12002,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12074,8 +12074,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12164,8 +12164,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12272,8 +12272,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12434,8 +12434,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12560,8 +12560,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12632,8 +12632,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12722,8 +12722,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12848,8 +12848,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12938,8 +12938,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12956,8 +12956,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -12992,8 +12992,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13010,8 +13010,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13028,8 +13028,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13100,8 +13100,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13280,8 +13280,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13460,8 +13460,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13568,8 +13568,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13604,8 +13604,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13622,8 +13622,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13640,8 +13640,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -13892,8 +13892,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -14378,8 +14378,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -14450,8 +14450,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -14846,8 +14846,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -14900,8 +14900,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -15134,8 +15134,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -15314,8 +15314,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -15998,8 +15998,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -16538,8 +16538,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -16574,8 +16574,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -16862,8 +16862,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17168,8 +17168,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17348,8 +17348,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17402,8 +17402,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17474,8 +17474,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17546,8 +17546,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17600,8 +17600,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -17618,8 +17618,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18068,8 +18068,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18140,8 +18140,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18176,8 +18176,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18284,8 +18284,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18374,8 +18374,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18482,8 +18482,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18572,8 +18572,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18626,8 +18626,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18644,8 +18644,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18680,8 +18680,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18716,8 +18716,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18752,8 +18752,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18842,8 +18842,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -18986,8 +18986,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -19130,8 +19130,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -19202,8 +19202,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -19292,8 +19292,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -19724,8 +19724,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -19904,8 +19904,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20012,8 +20012,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20030,8 +20030,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20084,8 +20084,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20138,8 +20138,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20156,8 +20156,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20192,8 +20192,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20282,8 +20282,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20336,8 +20336,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20390,8 +20390,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20462,8 +20462,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20480,8 +20480,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20516,8 +20516,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20552,8 +20552,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20624,8 +20624,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20696,8 +20696,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20714,8 +20714,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20732,8 +20732,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20768,8 +20768,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20876,8 +20876,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20948,8 +20948,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -20984,8 +20984,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21056,8 +21056,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21074,8 +21074,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21110,8 +21110,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21218,8 +21218,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21326,8 +21326,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21380,8 +21380,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21434,8 +21434,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21452,8 +21452,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21506,8 +21506,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21560,8 +21560,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -21830,8 +21830,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -22046,8 +22046,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -22694,8 +22694,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -24224,8 +24224,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -24242,8 +24242,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -26150,8 +26150,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -27554,8 +27554,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -27878,8 +27878,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -28040,8 +28040,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -29048,8 +29048,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -30380,8 +30380,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -31676,8 +31676,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -31802,8 +31802,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
@@ -35222,8 +35222,8 @@
         "isStaking": true,
         "isEligibleForOgRole": false,
         "isEligibleForPublicAirdrop": true,
-        "isEligibleForStakerAirdrop": false,
-        "isEligibleForOgAirdrop": false
+        "isEligibleForOgAirdrop": false,
+        "isEligibleForStakerAirdrop": true
     },
     {
         "dataSubmitted": {
